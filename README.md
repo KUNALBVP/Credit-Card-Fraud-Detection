@@ -7,9 +7,22 @@ algorithm.
 
 _**The results indicate the optimal accuracy for SVM, Naïve Bayes, KNN, Random Forest Classification and Decision Tree Classification are 91.87%, 90.24%, 89.83%, 91.05% and 88.62% respectively.**_
 
-## **ABOUT THE DATASET-**
-The [dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) for this project is taken from the kaggle.
+## **About The Dataset-**
+The **[dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)** for this project is taken from the kaggle.
 
 The datasets contain transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
+### Found this project useful? :heart:
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+## Project Created & Maintained By
+
+### Akash Gupta 
+**Flutter Developer** #Flutter, #Android Developer, #Passionate
+
+<a href="https://www.linkedin.com/in/akashgupta2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/profile.php?id=100011464338988"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/gupta.akash.2000/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 
